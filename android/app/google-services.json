@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063910692278",
+    "project_id": "fir-notification-app-c3109",
+    "storage_bucket": "fir-notification-app-c3109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063910692278:android:e6b596b82adc610df79d17",
+        "android_client_info": {
+          "package_name": "com.example.fbn_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUN_C7UbzI5Yd4-pVFqQ8W33lTBIURa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
